@@ -41,6 +41,7 @@ The website serves as a digital presence for a company offering various professi
 
 • javascript.js	Basic interactivity such as form validation, navigation behavior, etc.
 
+---
 
 ⚙️ TECHNOLOGIES USED:
 
