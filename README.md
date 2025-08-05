@@ -1,7 +1,7 @@
 🏢 SERVICE COMPANY WEBSITE:
 
 This project is a responsive, static website designed for a service-based company. It includes user-friendly navigation, multiple informational pages, and basic form handling on the frontend using HTML, CSS, and JavaScript.
-
+---
 🔍 OVERVIEW:
 
 The website serves as a digital presence for a company offering various professional services. Visitors can:
@@ -15,6 +15,7 @@ The website serves as a digital presence for a company offering various professi
 •	Submit job applications through a form
 
 •	Contact the company for inquiries
+---
 
 📁 FILE STRUCTURE:
 
